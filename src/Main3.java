@@ -19,7 +19,7 @@ public class Main3 {
         System.out.println(mensagem);
 
 
-        String nome2 = "Carlos";
+        String nome2 = "Carlos José";
         String escola = "Colégio São Paulo";
 
         String mensagem2 = """

@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int num = 10;
+        int num = 9;
         int result = 0;
         System.out.println("Valor original: " + result);
         result = num++; // Primeiro atribui, depois incrementa
